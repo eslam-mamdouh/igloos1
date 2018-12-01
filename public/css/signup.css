@@ -1,0 +1,46 @@
+body{
+	
+    background-color: #ffffff;
+}
+
+.container{
+  text-align: center;
+}
+
+form{
+     background-color: #212121;
+     padding-bottom: 2%;
+     border: 1px solid #EEEEEE;
+     border-radius: 15px;
+     width: 40%;
+     text-align: center;
+     margin: 0 auto !important;
+     margin-top: 80px !important;
+
+  }
+
+  input{
+    width: 80% !important;
+    margin: 0 auto;
+    margin-bottom: 30px !important;
+  }
+
+  label{
+    color: #757575;
+  }
+
+ #signup-link{
+    color: #FFC400;
+     /* margin-left: 43%; */
+      }
+
+ #btn-login{
+            background-color: #FFC400;
+            margin:0 auto !important;
+            border: none;
+            width: 25%;
+        }
+
+h1{
+   color: #FFC400;
+ }
